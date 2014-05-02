@@ -2,7 +2,7 @@
 
 ### [View](https://github.com/HashNuke/elixir-users/blob/master/elixir-users.geojson) or [Add person](https://github.com/HashNuke/elixir-users/blob/master/docs/how-to-add-person.md) or [Add meetup](https://github.com/HashNuke/elixir-users/blob/master/docs/how-to-add-meetup.md)
 
-I noticed that people are trying to organize Elixir meetups. This project should help find meetup groups or provide head count to organize Elixir meetups in newer places.
+This project should help find Elixir meetup groups or provide head count to organize Elixir meetups in newer places.
 
 Blue markers are users. Red markers are meetups.
 
