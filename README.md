@@ -7,14 +7,7 @@ This project should help find Elixir meetup groups or provide head count to orga
 Blue markers are users. Red markers are meetups.
 
 
-## DOs & DONTs
-
-* DONT delete or change the marker color.
-* DONT add fields not permitted.
-* DO file an issue if you have anything to discuss.
-
-
-## Who... why... what?
+### Who... why... what?
 
 I, [HashNuke](http://github.com/HashNuke) made this. File an issue to discuss anything.
 
