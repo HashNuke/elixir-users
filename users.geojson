@@ -8,12 +8,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [12.9667, 77.5667]
       },
       "properties": {
         "github": "HashNuke"
       }
-    },
+    }
 
   ]
 }
