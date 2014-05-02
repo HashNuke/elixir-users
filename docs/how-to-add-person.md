@@ -16,7 +16,7 @@
     "github": "HashNuke",
     "twitter": "HashNuke",
     "email": "akash@akash.im",
-    "marker-color": "#6692D4",
+    "marker-color": "#FFDF5B",
   }
 }
 ```
