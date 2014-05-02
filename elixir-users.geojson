@@ -41,6 +41,19 @@
         "twitter": "robby_brown",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.479839, 52.527479]
+      },
+      "properties": {
+        "name": "Christoph Grabo",
+        "github": "asaaki",
+        "twitter": "asaaki",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
