@@ -1,6 +1,6 @@
 # Elixir users
 
-### [View](https://github.com/HashNuke/elixir-users/blob/master/elixir-users.geojson) or [Add person](https://github.com/HashNuke/elixir-users/blob/master/HOW-TO-ADD-PERSON.md) or [Add meetup](https://github.com/HashNuke/elixir-users/blob/master/HOW-TO-ADD-MEETUP.md)
+### [View](https://github.com/HashNuke/elixir-users/blob/master/elixir-users.geojson) or [Add person](https://github.com/HashNuke/elixir-users/blob/master/docs/how-to-add-person.md) or [Add meetup](https://github.com/HashNuke/elixir-users/blob/master/docs/how-to-add-meetup.md)
 
 I noticed that people are trying to organize Elixir meetups. This project should help find meetup groups or provide head count to organize Elixir meetups in newer places.
 
