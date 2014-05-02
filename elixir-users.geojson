@@ -28,6 +28,19 @@
         "twitter": "mjs2600",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6583, 40.2339]
+      },
+      "properties": {
+        "name": "Robert Brown",
+        "github": "rob-brown",
+        "twitter": "robby_brown",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
