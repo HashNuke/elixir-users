@@ -2,7 +2,7 @@
 
 * Copy paste the below code, as another element of the `features` key, in the `elixir-users.geojson` file
 
-**Limits:** Allowed fields are `name`, `url`, `twitter` and `email`. `name` is REQUIRED. Others are optional. Incase your meetup group has a github organisation, then feel free to add that.
+**Limits:** `name` is REQUIRED. `url` and `twitter` are optional. Incase your meetup group has a github organisation, then feel free to add that.
 
 ```
 {

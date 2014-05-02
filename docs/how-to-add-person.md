@@ -2,7 +2,7 @@
 
 * Copy paste the below code, as another element of the `features` key, in the `elixir-users.geojson` file
 
-**Limits:** Allowed fields are `name`, `github`, `twitter` and `email`. Github handle is a REQUIRED. Others are optional.
+**Limits:** `github` is a REQUIRED. `name`, `twitter` and `email` are optional.
 
 ```
 {
