@@ -1,3 +1,4 @@
+
 {
   "type": "FeatureCollection",
   "name": "Elixir users",
@@ -30,17 +31,17 @@
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "geometry": {
-        "type": "point",
-        "coordinates": [33.520661, -86.80249]
+        "type": "Point",
+        "coordinates": [-86.80249, 33.520661]
       },
       "properties": {
         "name": "Josh Adams",
         "github": "knewter",
         "twitter": "knewter",
         "email": "josh.rubyist@gmail.com",
-        "marker-color": "#ffdf5b"
+        "marker-color": "#FFDF5B"
       }
     }
   ]
