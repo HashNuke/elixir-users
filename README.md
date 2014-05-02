@@ -4,7 +4,7 @@
 
 I noticed that people are trying to organize Elixir meetups. This project should help find meetup groups or provide head count to organize Elixir meetups in newer places.
 
-Maybe you can also meet some Elixir users in person.
+Blue markers are users. Red markers are meetups.
 
 
 ## DOs & DONTs
