@@ -4,7 +4,7 @@
 
 This project should help find Elixir meetup groups or provide head count to organize Elixir meetups in newer places.
 
-Yellow markers are users. Red markers are meetups.
+Yellow markers are users. Red markers are meetups (TODO: use some other color that's not red or green. Which one?).
 
 
 ### Who... why... what?
