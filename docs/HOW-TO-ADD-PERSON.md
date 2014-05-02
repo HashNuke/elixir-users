@@ -1,4 +1,4 @@
-# To add a person
+# How to add a person
 
 * Copy paste the below code, as another element of the `features` key, in the `elixir-users.geojson` file
 

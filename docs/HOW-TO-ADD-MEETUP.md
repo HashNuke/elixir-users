@@ -1,4 +1,4 @@
-# To add a meetup
+# How to add a meetup
 
 * Copy paste the below code, as another element of the `features` key, in the `elixir-users.geojson` file
 
