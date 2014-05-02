@@ -54,8 +54,8 @@ Maybe you can also meet some Elixir users in person.
 
 * Edit your details
 
-    ** `coordinates` are of the form [longitude, latitude]
-    ** the `properties` key holds other data
+  * `coordinates` are of the form `[longitude, latitude]`
+  * `properties` key holds other data
 
 * Then send a pull request.
 

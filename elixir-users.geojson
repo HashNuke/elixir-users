@@ -12,7 +12,8 @@
       "properties": {
         "name": "Akash Manohar",
         "github": "HashNuke",
-        "twitter": "HashNuke"
+        "twitter": "HashNuke",
+        "marker-color": "#6692D4",
       }
     }
   ]
