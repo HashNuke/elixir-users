@@ -15,7 +15,7 @@
     "name": "Some meetup",
     "url": "some-official-meetup-page.com",
     "twitter": "SomeMeetupOfficialTwitterHandle",
-    "marker-color": "#E35D5C",
+    "marker-color": "#E35D5C"
   }
 }
 ```
