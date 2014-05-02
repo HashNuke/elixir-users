@@ -9,6 +9,6 @@ Blue markers are users. Red markers are meetups.
 
 ### Who... why... what?
 
-I, [HashNuke](http://github.com/HashNuke) made this. File an issue to discuss anything.
+I, [HashNuke](http://github.com/HashNuke) made this.
 
 > Sir, while you are still here, may I interest you in some snake oil serum?
