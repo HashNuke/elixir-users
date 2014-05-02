@@ -3,12 +3,11 @@
   "name": "Elixir users",
 
   "features": [
-
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.9667, 77.5667]
+        "coordinates": [77.5667, 12.9667]
       },
       "properties": {
         "name": "Akash Manohar",
@@ -16,6 +15,5 @@
         "twitter": "HashNuke"
       }
     }
-
   ]
 }
