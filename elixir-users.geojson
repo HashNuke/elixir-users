@@ -20,7 +20,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [35.9886, -78.9072]
+        "coordinates": [-78.9072, 35.9886]
       },
       "properties": {
         "name": "Michael Simpson",
