@@ -23,7 +23,7 @@
 
 * Edit details
 
-  * `coordinates` are of the form `[longitude, latitude]`
+  * `coordinates` are of the form `[longitude, latitude]`. You can find lat-long for your city by googling. For London, you can search "london lat long". Make sure that the order of the lat-long array is correct.
   * `properties` key holds other data
 
 * Then send a pull request.
