@@ -16,6 +16,7 @@
         "marker-color": "#FFDF5B"
       }
     },
+
     {
       "type": "Feature",
       "geometry": {
@@ -29,6 +30,7 @@
         "marker-color": "#FFDF5B"
       }
     },
+
     {
       "type": "Feature",
       "geometry": {
@@ -42,6 +44,7 @@
         "marker-color": "#FFDF5B"
       }
     },
+
     {
       "type": "Feature",
       "geometry": {
@@ -55,6 +58,7 @@
         "marker-color": "#FFDF5B"
       }
     },
+
     {
       "type": "Feature",
       "geometry": {
@@ -69,6 +73,7 @@
         "marker-color": "#FFDF5B"
       }
     },
+
     {
       "type": "Feature",
       "geometry": {
@@ -83,6 +88,7 @@
         "marker-color": "#FFDF5B"
       }
     },
+
     {
       "type": "Feature",
       "geometry": {
@@ -93,6 +99,21 @@
         "name": "Julien Boyer",
         "github": "chatgris",
         "twitter": "chatgri",
+        "marker-color": "#FFDF5B"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3488, 48.8534]
+      },
+      "properties": {
+        "name": "Julien Blanchard",
+        "github": "julienXX",
+        "twitter": "julienXX",
+        "email": "me@julienblanchard.com",
         "marker-color": "#FFDF5B"
       }
     }
