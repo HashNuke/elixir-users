@@ -68,6 +68,20 @@
         "email": "josh.rubyist@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.01, 57.65]
+      },
+      "properties": {
+        "name": "Eric Meadows-Jönsson",
+        "github": "ericmj",
+        "twitter": "emjii",
+        "email": "eric.meadows.jonsson@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
