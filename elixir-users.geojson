@@ -82,6 +82,34 @@
         "email": "eric.meadows.jonsson@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3250, 59.9174]
+      },
+      "properties": {
+        "name": "Northwest Alchemists",
+        "url": "http://meetup.com/Northwest-Alchemists-Elixir-User-Group/",
+        "google-plus": "https://plus.google.com/communities/104090345216279616509",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.199174, 59.859092]
+      },
+      "properties": {
+        "name": "Igor Kapkov",
+        "github": "igas",
+        "twitter": "igasgeek",
+        "email": "igasgeek@me.com",
+        "site": "http://igas.me/",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
