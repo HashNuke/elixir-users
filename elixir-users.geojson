@@ -116,6 +116,21 @@
         "email": "me@julienblanchard.com",
         "marker-color": "#FFDF5B"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.85, 45.25]
+      },
+      "properties": {
+        "name": "Darko Fabijan",
+        "github": "darkofabijan",
+        "twitter": "darkofabijan",
+        "email": "darko@renderedtext.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
