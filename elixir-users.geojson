@@ -92,7 +92,6 @@
       "properties": {
         "name": "Northwest Alchemists",
         "url": "http://meetup.com/Northwest-Alchemists-Elixir-User-Group/",
-        "google-plus": "https://plus.google.com/communities/104090345216279616509",
         "marker-color": "#E35D5C"
       }
     },
@@ -107,7 +106,6 @@
         "github": "igas",
         "twitter": "igasgeek",
         "email": "igasgeek@me.com",
-        "site": "http://igas.me/",
         "marker-color": "#FFDF5B"
       }
     }
