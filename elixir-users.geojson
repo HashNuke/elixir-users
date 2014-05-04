@@ -148,5 +148,20 @@
       }
     }
 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.8032826, -71.242796]
+      },
+      "properties": {
+        "name": "Sylvain Benner",
+        "github": "syl20bnr",
+        "twitter": "syl20bnr",
+        "email": "sylvain.benner@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    }
+
   ]
 }
