@@ -82,6 +82,19 @@
         "email": "eric.meadows.jonsson@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35, 48.85]
+      },
+      "properties": {
+        "name": "Julien Boyer",
+        "github": "chatgris",
+        "twitter": "chatgri",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
