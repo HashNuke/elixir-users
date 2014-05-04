@@ -146,6 +146,21 @@
         "email": "igasgeek@me.com",
         "marker-color": "#FFDF5B"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.242796, 46.8032826]
+      },
+      "properties": {
+        "name": "Sylvain Benner",
+        "github": "syl20bnr",
+        "twitter": "syl20bnr",
+        "email": "sylvain.benner@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
 
   ]
