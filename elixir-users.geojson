@@ -146,7 +146,21 @@
         "email": "igasgeek@me.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.4089, 30.3347]
+      },
+      "properties": {
+        "name": "Johnny Winn",
+        "github": "nurugger07",
+        "twitter": "johnny_rugger",
+        "email": "johnny@hashrocket.com",
+        "marker-color": "#FFDF5B"
+      }
     }
-
   ]
 }
