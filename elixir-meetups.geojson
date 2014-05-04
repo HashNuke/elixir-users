@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "name": "Elixir meetups",
+
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3250, 59.9174]
+      },
+      "properties": {
+        "name": "Northwest Alchemists",
+        "url": "http://meetup.com/Northwest-Alchemists-Elixir-User-Group/",
+        "marker-color": "#E35D5C"
+      }
+    }
+
+  ]
+}
