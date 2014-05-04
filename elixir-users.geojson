@@ -147,7 +147,7 @@
         "marker-color": "#FFDF5B"
       }
     },
-    
+
     {
       "type": "Feature",
       "geometry": {
@@ -159,6 +159,21 @@
         "github": "nurugger07",
         "twitter": "johnny_rugger",
         "email": "johnny@hashrocket.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [5.551616, -0.204546]
+      },
+      "properties": {
+        "name": "Mawuli Adzaku",
+        "github": "mawuli-ypa",
+        "twitter": "mawuli_ypa",
+        "email": "mawuli.ypa@gmail.com",
         "marker-color": "#FFDF5B"
       }
     }
