@@ -73,6 +73,21 @@
         "marker-color": "#FFDF5B"
       }
     },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.787113, 36.167192]
+      },
+      "properties": {
+        "name": "Sonny Scroggin",
+        "github": "scrogson",
+        "twitter": "scrogson",
+        "email": "sonny@scrogg.in",
+        "marker-color": "#FFDF5B"
+      }
+    },
 
     {
       "type": "Feature",
