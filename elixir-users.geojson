@@ -190,6 +190,21 @@
         "email": "mawuli.ypa@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.4275, 59.8981]
+      },
+      "properties": {
+        "name": "Andrey Pavlov",
+        "github": "couchemar",
+        "twitter": "couchemar",
+        "email": "couchemar@yandex.ru",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
