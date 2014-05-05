@@ -167,7 +167,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [5.551616, -0.204546]
+          "coordinates": [-0.204546, 5.551616]
       },
       "properties": {
         "name": "Mawuli Adzaku",
