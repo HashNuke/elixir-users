@@ -196,7 +196,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [-33.4263, -70.5666]
+          "coordinates": [-70.5666,-33.4263]
       },
       "properties": {
         "name": "Ritchie Turner",
