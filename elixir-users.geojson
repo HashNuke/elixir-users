@@ -190,6 +190,24 @@
         "email": "mawuli.ypa@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    
+    ,
+
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-33.4263, -70.5666]
+      },
+      "properties": {
+        "name": "Ritchie Turner",
+        "github": "async-cl",
+        "twitter": "blackdog66",
+        "email": "ritchie@async.cl",
+        "marker-color": "#FFDF5B"
+      }
     }
+    
   ]
 }
