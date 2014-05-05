@@ -175,6 +175,21 @@
         "twitter": "talentdeficit",
         "marker-color": "#FFDF5B"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-0.204546, 5.551616]
+      },
+      "properties": {
+        "name": "Mawuli Adzaku",
+        "github": "mawuli-ypa",
+        "twitter": "mawuli_ypa",
+        "email": "mawuli.ypa@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
