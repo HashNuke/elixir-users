@@ -161,6 +161,20 @@
         "email": "johnny@hashrocket.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.07, 49.16]
+      },
+      "properties": {
+        "name": "alisdair sullivan",
+        "github": "talentdeficit",
+        "twitter": "talentdeficit",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
