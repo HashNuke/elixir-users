@@ -235,6 +235,20 @@
         "email": "couchemar@yandex.ru",
         "marker-color": "#FFDF5B"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.344067, 59.98466]
+      },
+      "properties": {
+        "name": "Dmitry Valentine",
+        "github": "severinus",
+        "email": "valentine.dmitry@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
     
   ]
