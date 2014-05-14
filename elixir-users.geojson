@@ -263,7 +263,21 @@
         "twitter": "h4cc",
         "marker-color": "#FFDF5B"
       }
-    }
+    },
+    
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [25.6667, -100.3167]
+  },
+  "properties": {
+    "name": "Eduardo Dmz",
+    "github": "edmz",
+    "twitter": "edmz",
+    "marker-color": "#FFDF5B"
+  }
+}    
     
   ]
 }
