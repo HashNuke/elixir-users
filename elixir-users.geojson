@@ -73,7 +73,7 @@
         "marker-color": "#FFDF5B"
       }
     },
-    
+
     {
       "type": "Feature",
       "geometry": {
@@ -263,7 +263,22 @@
         "twitter": "h4cc",
         "marker-color": "#FFDF5B"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-89.516709, 43.033059]
+      },
+      "properties": {
+        "name": "Adam Kittelson",
+        "github": "adamkittelson",
+        "twitter": "adamkittelson",
+        "email": "adam@apathydrive.com",
+        "marker-color": "#FFDF5B"
+      }
     }
-    
+
   ]
 }
