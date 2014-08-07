@@ -263,7 +263,22 @@
         "twitter": "h4cc",
         "marker-color": "#FFDF5B"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.0100, 83.6900]
+      },
+      "properties": {
+        "name": "Paul Woolcock",
+        "github": "pwoolcoc",
+        "twitter": "pauldwoolcock",
+        "sublevel": "pauldwoolcock",
+        "marker-color": "#FFDF5B"
+      }
     }
-    
+
   ]
 }
