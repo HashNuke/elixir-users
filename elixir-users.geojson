@@ -320,6 +320,22 @@
         "twitter": "johnlwebster",
         "marker-color": "#FFDF5B"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.569128, 55.675914]
+      },
+      "properties": {
+        "name": "Martin Gausby",
+        "github": "gausby",
+        "twitter": "gausby",
+        "email": "martin@gausby.dk",
+        "marker-color": "#FFDF5B"
+      }
     }
+    
   ]
 }
