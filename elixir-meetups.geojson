@@ -3,7 +3,18 @@
   "name": "Elixir meetups",
 
   "features": [
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.569128, 55.675914]
+      },
+       "properties": {
+         "name": "Northwest Alchemists",
+         "url": "http://meetup.com/Northwest-Alchemists-Elixir-User-Group/",
+         "marker-color": "#E35D5C"
+       }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -11,11 +22,10 @@
         "coordinates": [30.3250, 59.9174]
       },
       "properties": {
-        "name": "Northwest Alchemists",
-        "url": "http://meetup.com/Northwest-Alchemists-Elixir-User-Group/",
+        "name": "CPHex - Copenhagen Elixir",
+        "url": "https://github.com/cphex/cphex/",
         "marker-color": "#E35D5C"
       }
     }
-
   ]
 }
