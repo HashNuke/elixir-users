@@ -293,7 +293,19 @@
         "email": "adam@apathydrive.com",
         "marker-color": "#FFDF5B"
       }
-    }
+    },
 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.109497, 22.396428]
+      },
+      "properties": {
+        "name": "Leo Lou",
+        "github": "l4u",
+        "marker-color": "#FFDF5B"
+      }
+    }
   ]
 }
