@@ -27,6 +27,19 @@
         "url": "https://www.facebook.com/groups/shinjuku.ex",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.3705, 43.05945]
+      },
+      "properties": {
+        "name": "Sapporo.beam",
+        "url": "http://sapporo-beam.github.io",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
