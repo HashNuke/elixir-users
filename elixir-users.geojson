@@ -30,6 +30,21 @@
         "marker-color": "#FFDF5B"
       }
     },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.5000, 3.3333]
+      },
+      "properties": {
+        "name": "Low Kian Seong",
+        "github": "lowks",
+        "twitter": "lowks",
+        "email": "kianseong@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
 
     {
       "type": "Feature",
