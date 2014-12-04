@@ -306,6 +306,20 @@
         "github": "l4u",
         "marker-color": "#FFDF5B"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.795765, 40.376895]
+      },
+      "properties": {
+        "name": "John Webster",
+        "github": "jlwebster",
+        "twitter": "johnlwebster",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
