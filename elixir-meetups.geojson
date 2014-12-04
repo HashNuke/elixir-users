@@ -7,7 +7,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.569128, 55.675914]
+        "coordinates": [30.3250, 59.9174]
       },
        "properties": {
          "name": "Northwest Alchemists",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [30.3250, 59.9174]
+        "coordinates": [12.569128, 55.675914]
       },
       "properties": {
         "name": "CPHex - Copenhagen Elixir",
