@@ -40,6 +40,19 @@
         "url": "http://sapporo-beam.github.io",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.9564772, 18.7695796]
+      },
+      "properties": {
+        "name": "Elixir Chiang Mai",
+        "url": "https://plus.google.com/communities/104373497559311644664",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
