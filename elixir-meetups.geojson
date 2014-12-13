@@ -53,6 +53,19 @@
         "url": "https://plus.google.com/communities/104373497559311644664",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.58819, 50.72315]
+      },
+      "properties": {
+        "name": "DevSpace Elixir Study Group",
+        "url": "http://www.meetup.com/devspace-elixir-study-group/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
