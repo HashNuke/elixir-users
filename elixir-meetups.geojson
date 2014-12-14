@@ -66,6 +66,19 @@
         "url": "http://www.meetup.com/devspace-elixir-study-group/",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.9643316,45.840196]
+      },
+      "properties": {
+        "name": "Zagreb Elixir",
+        "url": "http://www.meetup.com/ZgElixir/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
