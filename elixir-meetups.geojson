@@ -121,6 +121,19 @@
         "twitter": "https://twitter.com/ElixirLangUK",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8986142,52.3747158]
+      },
+      "properties": {
+        "name": "FP AMS",
+        "url": "http://www.meetup.com/fp-ams",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
