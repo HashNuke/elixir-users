@@ -107,6 +107,20 @@
         "twitter": "https://twitter.com/StockholmElixir",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1015987,51.5286416]
+      },
+      "properties": {
+        "name": "Elixir London",
+        "url": "http://www.meetup.com/Elixir-London/",
+        "twitter": "https://twitter.com/ElixirLangUK",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
