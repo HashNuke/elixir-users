@@ -134,6 +134,19 @@
         "url": "http://www.meetup.com/fp-ams",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4251364,52.5075419]
+      },
+      "properties": {
+        "name": "Elixir Berlin",
+        "url": "http://www.meetup.com/Elixir-Berlin/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
