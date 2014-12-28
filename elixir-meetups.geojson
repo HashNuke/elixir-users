@@ -93,6 +93,20 @@
         "twitter": "https://twitter.com/lisbonelixir",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.9875455,59.326142]
+      },
+      "properties": {
+        "name": "Stockholm Elixir",
+        "url": "http://www.meetup.com/stockholm-elixir/",
+        "twitter": "https://twitter.com/StockholmElixir",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
