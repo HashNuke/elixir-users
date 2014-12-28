@@ -79,6 +79,20 @@
         "url": "http://www.meetup.com/ZgElixir/",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1602037,38.7436266]
+      },
+      "properties": {
+        "name": "Lisbon |> Elixir",
+        "url": "http://www.meetup.com/lisbon-elixir/",
+        "twitter": "https://twitter.com/lisbonelixir",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
