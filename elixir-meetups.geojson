@@ -199,6 +199,19 @@
         "url": "http://www.meetup.com/Bogota-Elixir/",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.6331108,13.7246005]
+      },
+      "properties": {
+        "name": "BKK Erlang & Elixir Developers",
+        "url": "http://www.meetup.com/BKK-Erlang-Elixir-Meetup/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
