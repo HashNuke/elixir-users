@@ -160,6 +160,19 @@
         "url": "http://www.meetup.com/lambda-luminaries/",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.420604,33.7677129]
+      },
+      "properties": {
+        "name": "Atlanta Elixir Meetup",
+        "url": "http://www.meetup.com/atlantaelixir/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
