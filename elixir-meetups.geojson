@@ -173,6 +173,19 @@
         "url": "http://www.meetup.com/atlantaelixir/",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.2021574,39.7794904]
+      },
+      "properties": {
+        "name": "Dayton Elixir",
+        "url": "http://www.meetup.com/DaytonElixir/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
