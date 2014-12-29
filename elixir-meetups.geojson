@@ -147,6 +147,19 @@
         "url": "http://www.meetup.com/Elixir-Berlin/",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.219682,-25.75865]
+      },
+      "properties": {
+        "name": "Lambda Luminaries",
+        "url": "http://www.meetup.com/lambda-luminaries/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
