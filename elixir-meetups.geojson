@@ -186,6 +186,19 @@
         "url": "http://www.meetup.com/DaytonElixir/",
         "marker-color": "#E35D5C"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.22404,4.283435]
+      },
+      "properties": {
+        "name": "Bogotá |> Elixir",
+        "url": "http://www.meetup.com/Bogota-Elixir/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
