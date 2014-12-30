@@ -52,6 +52,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -71.0571571,
+          42.3133735
+        ]
+      },
+      "properties":{
+        "name":"Boston Elixir",
+        "url":"http://www.meetup.com/Boston-Elixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           12.569128,
           55.675914
         ]
