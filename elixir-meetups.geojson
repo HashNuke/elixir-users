@@ -189,6 +189,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -77.4407885,
+          38.8448844
+        ]
+      },
+      "properties":{
+        "name":"NoVA Elixir Meetup",
+        "url":"http://www.meetup.com/NoVA-Elixir-Meetup",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           141.3705,
           43.05945
         ]
