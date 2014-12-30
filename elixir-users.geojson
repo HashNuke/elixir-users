@@ -1,356 +1,403 @@
 {
-  "type": "FeatureCollection",
-  "name": "Elixir users",
-
-  "features": [
+  "type":"FeatureCollection",
+  "name":"Elixir users",
+  "features":[
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [77.5667, 12.9667]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -89.516709,
+          43.033059
+        ]
       },
-      "properties": {
-        "name": "Akash Manohar",
-        "github": "HashNuke",
-        "twitter": "HashNuke",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Adam Kittelson",
+        "github":"adamkittelson",
+        "twitter":"adamkittelson",
+        "email":"adam@apathydrive.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.9072, 35.9886]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          77.5667,
+          12.9667
+        ]
       },
-      "properties": {
-        "name": "Michael Simpson",
-        "github": "mjs2600",
-        "twitter": "mjs2600",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Akash Manohar",
+        "github":"HashNuke",
+        "twitter":"HashNuke",
+        "marker-color":"#FFDF5B"
       }
     },
-    
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [101.5000, 3.3333]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          30.4275,
+          59.8981
+        ]
       },
-      "properties": {
-        "name": "Low Kian Seong",
-        "github": "lowks",
-        "twitter": "lowks",
-        "email": "kianseong@gmail.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Andrey Pavlov",
+        "github":"couchemar",
+        "twitter":"couchemar",
+        "email":"couchemar@yandex.ru",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.6583, 40.2339]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.479839,
+          52.527479
+        ]
       },
-      "properties": {
-        "name": "Robert Brown",
-        "github": "rob-brown",
-        "twitter": "robby_brown",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Christoph Grabo",
+        "github":"asaaki",
+        "twitter":"asaaki",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.479839, 52.527479]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          19.85,
+          45.25
+        ]
       },
-      "properties": {
-        "name": "Christoph Grabo",
-        "github": "asaaki",
-        "twitter": "asaaki",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Darko Fabijan",
+        "github":"darkofabijan",
+        "twitter":"darkofabijan",
+        "email":"darko@renderedtext.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.80249, 33.520661]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          30.344067,
+          59.98466
+        ]
       },
-      "properties": {
-        "name": "Josh Adams",
-        "github": "knewter",
-        "twitter": "knewter",
-        "email": "josh.rubyist@gmail.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Dmitry Valentine",
+        "github":"severinus",
+        "email":"valentine.dmitry@gmail.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.787113, 36.167192]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.01,
+          57.65
+        ]
       },
-      "properties": {
-        "name": "Sonny Scroggin",
-        "github": "scrogson",
-        "twitter": "scrogson",
-        "email": "sonny@scrogg.in",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Eric Meadows-Jönsson",
+        "github":"ericmj",
+        "twitter":"emjii",
+        "email":"eric.meadows.jonsson@gmail.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.01, 57.65]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          115.147192,
+          -8.6569943
+        ]
       },
-      "properties": {
-        "name": "Eric Meadows-Jönsson",
-        "github": "ericmj",
-        "twitter": "emjii",
-        "email": "eric.meadows.jonsson@gmail.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Igor Kapkov",
+        "github":"igas",
+        "twitter":"igasgeek",
+        "email":"igasgeek@me.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.35, 48.85]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -111.795765,
+          40.376895
+        ]
       },
-      "properties": {
-        "name": "Julien Boyer",
-        "github": "chatgris",
-        "twitter": "chatgri",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"John Webster",
+        "github":"jlwebster",
+        "twitter":"johnlwebster",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.3488, 48.8534]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -81.4089,
+          30.3347
+        ]
       },
-      "properties": {
-        "name": "Julien Blanchard",
-        "github": "julienXX",
-        "twitter": "julienXX",
-        "email": "me@julienblanchard.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Johnny Winn",
+        "github":"nurugger07",
+        "twitter":"johnny_rugger",
+        "email":"johnny@hashrocket.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [19.85, 45.25]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -86.80249,
+          33.520661
+        ]
       },
-      "properties": {
-        "name": "Darko Fabijan",
-        "github": "darkofabijan",
-        "twitter": "darkofabijan",
-        "email": "darko@renderedtext.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Josh Adams",
+        "github":"knewter",
+        "twitter":"knewter",
+        "email":"josh.rubyist@gmail.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [115.147192, -8.6569943]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          2.3488,
+          48.8534
+        ]
       },
-      "properties": {
-        "name": "Igor Kapkov",
-        "github": "igas",
-        "twitter": "igasgeek",
-        "email": "igasgeek@me.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Julien Blanchard",
+        "github":"julienXX",
+        "twitter":"julienXX",
+        "email":"me@julienblanchard.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.4089, 30.3347]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          2.35,
+          48.85
+        ]
       },
-      "properties": {
-        "name": "Johnny Winn",
-        "github": "nurugger07",
-        "twitter": "johnny_rugger",
-        "email": "johnny@hashrocket.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Julien Boyer",
+        "github":"chatgris",
+        "twitter":"chatgri",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.07, 49.16]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          9.9921962,
+          53.5534074
+        ]
       },
-      "properties": {
-        "name": "alisdair sullivan",
-        "github": "talentdeficit",
-        "twitter": "talentdeficit",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Julius Beckmann",
+        "github":"h4cc",
+        "twitter":"h4cc",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-          "type": "Point",
-          "coordinates": [-0.204546, 5.551616]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          114.109497,
+          22.396428
+        ]
       },
-      "properties": {
-        "name": "Mawuli Adzaku",
-        "github": "mawuli-ypa",
-        "twitter": "mawuli_ypa",
-        "email": "mawuli.ypa@gmail.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Leo Lou",
+        "github":"l4u",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-          "type": "Point",
-          "coordinates": [-70.5666,-33.4263]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          101.5,
+          3.3333
+        ]
       },
-      "properties": {
-        "name": "Ritchie Turner",
-        "github": "async-cl",
-        "twitter": "blackdog66",
-        "email": "ritchie@async.cl",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Low Kian Seong",
+        "github":"lowks",
+        "twitter":"lowks",
+        "email":"kianseong@gmail.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-          "type": "Point",
-          "coordinates": [30.4275, 59.8981]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.569128,
+          55.675914
+        ]
       },
-      "properties": {
-        "name": "Andrey Pavlov",
-        "github": "couchemar",
-        "twitter": "couchemar",
-        "email": "couchemar@yandex.ru",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Martin Gausby",
+        "github":"gausby",
+        "twitter":"gausby",
+        "email":"martin@gausby.dk",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-          "type": "Point",
-          "coordinates": [30.344067, 59.98466]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -0.204546,
+          5.551616
+        ]
       },
-      "properties": {
-        "name": "Dmitry Valentine",
-        "github": "severinus",
-        "email": "valentine.dmitry@gmail.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Mawuli Adzaku",
+        "github":"mawuli-ypa",
+        "twitter":"mawuli_ypa",
+        "email":"mawuli.ypa@gmail.com",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-          "type": "Point",
-          "coordinates": [9.9921962, 53.5534074]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -78.9072,
+          35.9886
+        ]
       },
-      "properties": {
-        "name": "Julius Beckmann",
-        "github": "h4cc",
-        "twitter": "h4cc",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Michael Simpson",
+        "github":"mjs2600",
+        "twitter":"mjs2600",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-          "type": "Point",
-          "coordinates": [-89.516709, 43.033059]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -70.5666,
+          -33.4263
+        ]
       },
-      "properties": {
-        "name": "Adam Kittelson",
-        "github": "adamkittelson",
-        "twitter": "adamkittelson",
-        "email": "adam@apathydrive.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Ritchie Turner",
+        "github":"async-cl",
+        "twitter":"blackdog66",
+        "email":"ritchie@async.cl",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [114.109497, 22.396428]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -111.6583,
+          40.2339
+        ]
       },
-      "properties": {
-        "name": "Leo Lou",
-        "github": "l4u",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Robert Brown",
+        "github":"rob-brown",
+        "twitter":"robby_brown",
+        "marker-color":"#FFDF5B"
       }
     },
-
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.795765, 40.376895]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -86.787113,
+          36.167192
+        ]
       },
-      "properties": {
-        "name": "John Webster",
-        "github": "jlwebster",
-        "twitter": "johnlwebster",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Sonny Scroggin",
+        "github":"scrogson",
+        "twitter":"scrogson",
+        "email":"sonny@scrogg.in",
+        "marker-color":"#FFDF5B"
       }
     },
-    
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.569128, 55.675914]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          30.3991947,
+          60.0382142
+        ]
       },
-      "properties": {
-        "name": "Martin Gausby",
-        "github": "gausby",
-        "twitter": "gausby",
-        "email": "martin@gausby.dk",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Vladimir Smyshlyaev",
+        "github":"vforvova",
+        "twitter":"vforvova",
+        "email":"v@vforvova.ru",
+        "marker-color":"#FFDF5B"
       }
     },
-    
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [30.3991947, 60.0382142]
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -123.07,
+          49.16
+        ]
       },
-      "properties": {
-        "name": "Vladimir Smyshlyaev",
-        "github": "vforvova",
-        "twitter": "vforvova",
-        "email": "v@vforvova.ru",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"alisdair sullivan",
+        "github":"talentdeficit",
+        "twitter":"talentdeficit",
+        "marker-color":"#FFDF5B"
       }
     }
-    
   ]
 }

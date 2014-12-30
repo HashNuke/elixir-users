@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'oj'
+require 'pp'
+
+%w[elixir-meetups elixir-users].each do |file|
+  path = File.expand_path("../../#{file}.geojson", __FILE__)
+  json = Oj.load_file(path)
+  json['features'] = json['features'].sort_by do |meetup|
+    meetup['properties']['name']
+  end
+  Oj.to_file(path, json, indent: 2)
+end
