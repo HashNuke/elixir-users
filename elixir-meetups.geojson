@@ -250,6 +250,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          16.3800599,
+          48.2206849
+        ]
+      },
+      "properties":{
+        "name":"Vienna BEAMers - Erlang & Elixir User Group",
+        "url":"http://www.meetup.com/Vienna-BEAMers",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           15.9643316,
           45.840196
         ]
