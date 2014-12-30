@@ -204,6 +204,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          120.9797033,
+          14.5980716
+        ]
+      },
+      "properties":{
+        "name":"Manila Elixir & Erlang User Group",
+        "url":"http://www.meetup.com/Manila-Elixir-User-Group",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -77.4407885,
           38.8448844
         ]
