@@ -415,6 +415,21 @@
         "twitter":"talentdeficit",
         "marker-color":"#FFDF5B"
       }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.633150,
+          -23.548914
+        ]
+      },
+      "properties":{
+        "name":"Elug-sp",
+        "twitter":"elug_sp",
+        "marker-color":"#FFDF5B"
+      }
     }
   ]
 }
