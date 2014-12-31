@@ -173,6 +173,23 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          12.602,
+          55.657
+        ]
+      },
+      "properties":{
+        "name":"Jonas Skovsgaard",
+        "github":"skovsgaard",
+        "twitter":"status402",
+        "email":"skovsgaard@protonmail.ch",
+        "marker-color":"#FFDF5B"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -86.80249,
           33.520661
         ]
@@ -280,23 +297,6 @@
         "github":"gausby",
         "twitter":"gausby",
         "email":"martin@gausby.dk",
-        "marker-color":"#FFDF5B"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          12.602,
-          55.657
-        ]
-      },
-      "properties":{
-        "name":"Jonas Skovsgaard",
-        "github":"skovsgaard",
-        "twitter":"status402",
-        "email":"skovsgaard@protonmail.ch",
         "marker-color":"#FFDF5B"
       }
     },
