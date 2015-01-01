@@ -173,6 +173,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          9.9278215,
+          53.558572
+        ]
+      },
+      "properties":{
+        "name":"Hamburg BEAMers - Erlang & Elixir User Group",
+        "url":"http://www.meetup.com/Hamburg-BEAMers",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           28.219682,
           -25.75865
         ]
