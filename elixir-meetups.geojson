@@ -188,13 +188,14 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
-          98.9564772,
-          18.7695796
+          -0.1015987,
+          51.5286416
         ]
       },
       "properties":{
-        "name":"Elixir Chiang Mai",
-        "url":"https://plus.google.com/communities/104373497559311644664",
+        "name":"Elixir London",
+        "url":"http://www.meetup.com/Elixir-London",
+        "twitter":"https://twitter.com/ElixirLangUK",
         "marker-color":"#E35D5C"
       }
     },
