@@ -280,6 +280,22 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -86.7852455,
+          36.1866405
+        ]
+      },
+      "properties":{
+        "name":"NashFP",
+        "url":"http://nashfp.org",
+        "twitter":"https://twitter.com/nashfp",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -77.4407885,
           38.8448844
         ]
