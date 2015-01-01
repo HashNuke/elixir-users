@@ -13,7 +13,7 @@
       },
       "properties":{
         "name":"Atlanta Elixir Meetup",
-        "url":"http://www.meetup.com/atlantaelixir/",
+        "url":"http://www.meetup.com/atlantaelixir",
         "marker-color":"#E35D5C"
       }
     },
@@ -28,7 +28,7 @@
       },
       "properties":{
         "name":"BKK Erlang & Elixir Developers",
-        "url":"http://www.meetup.com/BKK-Erlang-Elixir-Meetup/",
+        "url":"http://www.meetup.com/BKK-Erlang-Elixir-Meetup",
         "marker-color":"#E35D5C"
       }
     },
@@ -43,7 +43,7 @@
       },
       "properties":{
         "name":"Bogotá |> Elixir",
-        "url":"http://www.meetup.com/Bogota-Elixir/",
+        "url":"http://www.meetup.com/Bogota-Elixir",
         "marker-color":"#E35D5C"
       }
     },
@@ -88,7 +88,7 @@
       },
       "properties":{
         "name":"Dayton Elixir",
-        "url":"http://www.meetup.com/DaytonElixir/",
+        "url":"http://www.meetup.com/DaytonElixir",
         "marker-color":"#E35D5C"
       }
     },
@@ -103,7 +103,7 @@
       },
       "properties":{
         "name":"DevSpace Elixir Study Group",
-        "url":"http://www.meetup.com/devspace-elixir-study-group/",
+        "url":"http://www.meetup.com/devspace-elixir-study-group",
         "marker-color":"#E35D5C"
       }
     },
@@ -118,7 +118,7 @@
       },
       "properties":{
         "name":"Elixir Berlin",
-        "url":"http://www.meetup.com/Elixir-Berlin/",
+        "url":"http://www.meetup.com/Elixir-Berlin",
         "marker-color":"#E35D5C"
       }
     },
@@ -148,8 +148,23 @@
       },
       "properties":{
         "name":"Elixir London",
-        "url":"http://www.meetup.com/Elixir-London/",
+        "url":"http://www.meetup.com/Elixir-London",
         "twitter":"https://twitter.com/ElixirLangUK",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.654048,
+          -23.565257
+        ]
+      },
+      "properties":{
+        "name":"Elug-sp Elixir User Grup São Paulo",
+        "url":"https://groups.google.com/forum/?hl=pt#!forum/elug-sp",
         "marker-color":"#E35D5C"
       }
     },
@@ -194,7 +209,7 @@
       },
       "properties":{
         "name":"Lambda Luminaries",
-        "url":"http://www.meetup.com/lambda-luminaries/",
+        "url":"http://www.meetup.com/lambda-luminaries",
         "marker-color":"#E35D5C"
       }
     },
@@ -209,7 +224,7 @@
       },
       "properties":{
         "name":"Lisbon |> Elixir",
-        "url":"http://www.meetup.com/lisbon-elixir/",
+        "url":"http://www.meetup.com/lisbon-elixir",
         "twitter":"https://twitter.com/lisbonelixir",
         "marker-color":"#E35D5C"
       }
@@ -300,7 +315,7 @@
       },
       "properties":{
         "name":"Stockholm Elixir",
-        "url":"http://www.meetup.com/stockholm-elixir/",
+        "url":"http://www.meetup.com/stockholm-elixir",
         "twitter":"https://twitter.com/StockholmElixir",
         "marker-color":"#E35D5C"
       }
@@ -331,22 +346,7 @@
       },
       "properties":{
         "name":"Zagreb Elixir",
-        "url":"http://www.meetup.com/ZgElixir/",
-        "marker-color":"#E35D5C"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -46.654048,
-          -23.565257
-        ]
-      },
-      "properties":{
-        "name":"Elug-sp Elixir User Grup São Paulo",
-        "url":"https://groups.google.com/forum/?hl=pt#!forum/elug-sp/",
+        "url":"http://www.meetup.com/ZgElixir",
         "marker-color":"#E35D5C"
       }
     }

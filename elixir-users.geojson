@@ -123,6 +123,22 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -46.63315,
+          -23.548914
+        ]
+      },
+      "properties":{
+        "name":"Helio Oliveira",
+        "github":"heliohead",
+        "twitter":"heliohead",
+        "marker-color":"#FFDF5B"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           115.147192,
           -8.6569943
         ]
@@ -413,22 +429,6 @@
         "name":"alisdair sullivan",
         "github":"talentdeficit",
         "twitter":"talentdeficit",
-        "marker-color":"#FFDF5B"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -46.633150,
-          -23.548914
-        ]
-      },
-      "properties":{
-        "name":"Helio Oliveira",
-        "github":"heliohead",
-        "twitter":"heliohead",
         "marker-color":"#FFDF5B"
       }
     }
