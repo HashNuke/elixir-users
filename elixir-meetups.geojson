@@ -334,6 +334,21 @@
         "url":"http://www.meetup.com/ZgElixir/",
         "marker-color":"#E35D5C"
       }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.654048,
+          -23.565257
+        ]
+      },
+      "properties":{
+        "name":"Elug-sp Elixir User Grup São Paulo",
+        "url":"https://groups.google.com/forum/?hl=pt#!forum/elug-sp/",
+        "marker-color":"#E35D5C"
+      }
     }
   ]
 }
