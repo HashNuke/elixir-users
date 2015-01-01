@@ -355,21 +355,6 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
-          -79.9805005,
-          40.4313684
-        ]
-      },
-      "properties":{
-        "name":"Pittsburgh Code & Supply",
-        "url":"http://www.meetup.com/Pittsburgh-Code-Supply",
-        "marker-color":"#E35D5C"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
           -122.654422,
           45.5424364
         ]
