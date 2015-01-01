@@ -295,6 +295,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -122.3359059,
+          47.614848
+        ]
+      },
+      "properties":{
+        "name":"Seattle Erlang and Elixir User Group",
+        "url":"http://www.meetup.com/Seattle-Erlang-User-Group",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           139.710388,
           35.673343
         ]
