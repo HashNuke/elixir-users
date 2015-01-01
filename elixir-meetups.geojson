@@ -218,6 +218,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -58.440142,
+          -34.590026
+        ]
+      },
+      "properties":{
+        "name":"Erlang and Elixir Buenos Aires User Group",
+        "url":"http://erlangba.com",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           4.8986142,
           52.3747158
         ]
