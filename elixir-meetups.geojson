@@ -59,6 +59,7 @@
       "properties":{
         "name":"Boston Elixir",
         "url":"http://www.meetup.com/Boston-Elixir",
+        "twitter":"http://twitter.com/bostonelixir",
         "marker-color":"#E35D5C"
       }
     },
