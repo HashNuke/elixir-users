@@ -98,6 +98,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -83.099205,
+          42.352711
+        ]
+      },
+      "properties":{
+        "name":"Detroit Erlang and Elixir Meetup",
+        "url":"http://www.meetup.com/Detroit-Erlang-and-Elixir-Meetup",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           4.58819,
           50.72315
         ]
