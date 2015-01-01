@@ -83,6 +83,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -87.7321555,
+          41.8337329
+        ]
+      },
+      "properties":{
+        "name":"ChicagoElixir",
+        "url":"http://www.meetup.com/ChicagoElixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -84.2021574,
           39.7794904
         ]
