@@ -204,6 +204,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -86.751071,
+          36.1779745
+        ]
+      },
+      "properties":{
+        "name":"Elixir Nash",
+        "url":"http://www.meetup.com/elixir-nash/",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -46.654048,
           -23.565257
         ]
