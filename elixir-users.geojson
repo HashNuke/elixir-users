@@ -431,6 +431,22 @@
         "twitter":"talentdeficit",
         "marker-color":"#FFDF5B"
       }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -106.0833,
+          28.633
+        ]
+      },
+      "properties":{
+        "name":"Ricardo Echavarria",
+        "github":"r-icarus",
+        "twitter":"r_icarus",
+        "marker-color":"#FFDF5B"
+      }
     }
   ]
 }
