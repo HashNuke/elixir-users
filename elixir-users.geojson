@@ -354,6 +354,22 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -106.0833,
+          28.633
+        ]
+      },
+      "properties":{
+        "name":"Ricardo Echavarria",
+        "github":"r-icarus",
+        "twitter":"r_icarus",
+        "marker-color":"#FFDF5B"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -70.5666,
           -33.4263
         ]
@@ -421,30 +437,15 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
-          -123.07,
-          49.16
+          49.25,
+          -123.1
         ]
       },
       "properties":{
-        "name":"alisdair sullivan",
-        "github":"talentdeficit",
-        "twitter":"talentdeficit",
-        "marker-color":"#FFDF5B"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -106.0833,
-          28.633
-        ]
-      },
-      "properties":{
-        "name":"Ricardo Echavarria",
-        "github":"r-icarus",
-        "twitter":"r_icarus",
+        "name":"Yurii Rashkovskii",
+        "github":"yrashk",
+        "twitter":"yrashk",
+        "email":"yrashk@gmail.com",
         "marker-color":"#FFDF5B"
       }
     },
@@ -464,21 +465,20 @@
         "email":"yrashk@gmail.com",
         "marker-color":"#FFDF5B"
       }
-    }
+    },
     {
       "type":"Feature",
       "geometry":{
         "type":"Point",
         "coordinates":[
-          49.25,
-          -123.10
+          -123.07,
+          49.16
         ]
       },
       "properties":{
-        "name":"Yurii Rashkovskii",
-        "github":"yrashk",
-        "twitter":"yrashk",
-        "email":"yrashk@gmail.com",
+        "name":"alisdair sullivan",
+        "github":"talentdeficit",
+        "twitter":"talentdeficit",
         "marker-color":"#FFDF5B"
       }
     }
