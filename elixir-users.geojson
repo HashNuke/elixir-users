@@ -447,6 +447,40 @@
         "twitter":"r_icarus",
         "marker-color":"#FFDF5B"
       }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.75,
+          100.4667
+        ]
+      },
+      "properties":{
+        "name":"Yurii Rashkovskii",
+        "github":"yrashk",
+        "twitter":"yrashk",
+        "email":"yrashk@gmail.com",
+        "marker-color":"#FFDF5B"
+      }
+    }
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          49.25,
+          -123.10
+        ]
+      },
+      "properties":{
+        "name":"Yurii Rashkovskii",
+        "github":"yrashk",
+        "twitter":"yrashk",
+        "email":"yrashk@gmail.com",
+        "marker-color":"#FFDF5B"
+      }
     }
   ]
 }
