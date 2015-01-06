@@ -454,8 +454,8 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
-          100.4667,
-          13.75
+          13.75,
+          100.4667
         ]
       },
       "properties":{
