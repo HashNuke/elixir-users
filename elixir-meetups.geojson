@@ -371,6 +371,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -70.2578304,
+          43.6534968
+        ]
+      },
+      "properties":{
+        "name":"Portland Erlang & Elixir",
+        "url":"http://www.meetup.com/Portland-Erlang-Elixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -122.654422,
           45.5424364
         ]
