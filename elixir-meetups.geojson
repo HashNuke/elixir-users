@@ -279,6 +279,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -118.2499534,
+          34.043212
+        ]
+      },
+      "properties":{
+        "name":"LA Elixir Meetup",
+        "url":"http://www.meetup.com/LA-Elixir-Meetup",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           28.219682,
           -25.75865
         ]
