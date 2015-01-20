@@ -113,6 +113,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -84.5404014,
+          39.1363401
+        ]
+      },
+      "properties":{
+        "name":"Cincinnati Elixir Meetup",
+        "url":"http://www.meetup.com/Cincinnati-Elixir-Meetup",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -84.2021574,
           39.7794904
         ]
