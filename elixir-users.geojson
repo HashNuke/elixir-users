@@ -437,8 +437,8 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
-          -123.1,
-          49.25
+          100.4667,
+          13.75
         ]
       },
       "properties":{
@@ -454,8 +454,8 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
-          100.4667,
-          13.75
+          -123.1,
+          49.25
         ]
       },
       "properties":{
