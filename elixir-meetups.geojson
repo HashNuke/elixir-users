@@ -507,6 +507,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -100.3030788,
+          25.6488126
+        ]
+      },
+      "properties":{
+        "name":"Usuarios de Elixir/Erlang de Monterrey",
+        "url":"http://www.meetup.com/Usuarios-de-Elixir-Erlang-de-Monterrey",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           16.3800599,
           48.2206849
         ]
