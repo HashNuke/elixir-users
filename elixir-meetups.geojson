@@ -188,6 +188,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -73.979681,
+          40.7033121
+        ]
+      },
+      "properties":{
+        "name":"ELIXIR NYC",
+        "url":"http://www.meetup.com/NYC-Elixir-Language-Meetup",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           13.4251364,
           52.5075419
         ]
