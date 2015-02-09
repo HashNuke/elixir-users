@@ -366,6 +366,23 @@
       }
     },
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0667,
+          51.0500
+        ]
+      },
+      "properties": {
+        "name": "Richard Bishop",
+        "github": "rbishop",
+        "twitter": "rbondev",
+        "email": "richard@rubiquity.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
       "type":"Feature",
       "geometry":{
         "type":"Point",
