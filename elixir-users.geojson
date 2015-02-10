@@ -123,6 +123,23 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          9.0997714,
+          45.4597334
+        ]
+      },
+      "properties":{
+        "name":"Gabriele Lana",
+        "github":"gabrielelana",
+        "twitter":"gabrielelana",
+        "email":"gabriele.lana@gmail.com",
+        "marker-color":"#FFDF5B"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -46.63315,
           -23.548914
         ]
