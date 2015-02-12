@@ -498,6 +498,19 @@
         "twitter":"talentdeficit",
         "marker-color":"#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.05, 29.95]
+      },
+      "properties": {
+        "name": "Bryan Joseph",
+        "github": "bryanjos",
+        "twitter": "bryanjos",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
