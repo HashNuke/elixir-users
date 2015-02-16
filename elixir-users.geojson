@@ -57,6 +57,22 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -90.05,
+          29.95
+        ]
+      },
+      "properties":{
+        "name":"Bryan Joseph",
+        "github":"bryanjos",
+        "twitter":"bryanjos",
+        "marker-color":"#FFDF5B"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           13.479839,
           52.527479
         ]
@@ -383,20 +399,20 @@
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -114.0667,
-          51.0500
+          51.05
         ]
       },
-      "properties": {
-        "name": "Richard Bishop",
-        "github": "rbishop",
-        "twitter": "rbondev",
-        "email": "richard@rubiquity.com",
-        "marker-color": "#FFDF5B"
+      "properties":{
+        "name":"Richard Bishop",
+        "github":"rbishop",
+        "twitter":"rbondev",
+        "email":"richard@rubiquity.com",
+        "marker-color":"#FFDF5B"
       }
     },
     {
@@ -514,19 +530,6 @@
         "github":"talentdeficit",
         "twitter":"talentdeficit",
         "marker-color":"#FFDF5B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.05, 29.95]
-      },
-      "properties": {
-        "name": "Bryan Joseph",
-        "github": "bryanjos",
-        "twitter": "bryanjos",
-        "marker-color": "#FFDF5B"
       }
     }
   ]
