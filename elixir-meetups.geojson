@@ -233,6 +233,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -122.6307328,
+          45.5515731
+        ]
+      },
+      "properties":{
+        "name":"Elixir Games PDX",
+        "url":"http://www.meetup.com/pdx-elixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -0.1015987,
           51.5286416
         ]
