@@ -98,6 +98,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          153.0028595,
+          -27.4073899
+        ]
+      },
+      "properties":{
+        "name":"Brisbane Elixir",
+        "url":"http://www.meetup.com/brisbane-elixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           12.569128,
           55.675914
         ]
