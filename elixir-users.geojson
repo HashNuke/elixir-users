@@ -383,6 +383,22 @@
       }
     },
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4666,
+          44.8167
+        ]
+      },
+      "properties": {
+        "name": "Miloš Mošić",
+        "github": "mosic",
+        "email": "milos@evercam.io",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
       "type":"Feature",
       "geometry":{
         "type":"Point",
