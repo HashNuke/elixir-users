@@ -248,6 +248,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -103.3354131,
+          20.673792
+        ]
+      },
+      "properties":{
+        "name":"Elixir GDL",
+        "url":"http://www.meetup.com/ElixirGDL",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -122.6307328,
           45.5515731
         ]
