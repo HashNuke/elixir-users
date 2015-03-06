@@ -278,6 +278,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          24.9410248,
+          60.1733244
+        ]
+      },
+      "properties":{
+        "name":"Elixir Helsinki",
+        "url":"http://www.meetup.com/Helsinki-Elixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -0.1015987,
           51.5286416
         ]
