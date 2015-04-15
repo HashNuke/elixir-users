@@ -293,6 +293,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          20.0048731,
+          50.0467656
+        ]
+      },
+      "properties":{
+        "name":"Elixir Kraków",
+        "url":"http://www.meetup.com/Elixir-Krakow",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -0.1015987,
           51.5286416
         ]
