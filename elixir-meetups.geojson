@@ -218,6 +218,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          14.5320991,
+          46.0661174
+        ]
+      },
+      "properties":{
+        "name":"Elixir & Functional Programming Slovenia & Central Europe",
+        "url":"http://www.meetup.com/Elixir-Functional-Programming-Slovenia-Central-Europe",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           13.4251364,
           52.5075419
         ]
