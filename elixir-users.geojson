@@ -189,6 +189,22 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -84.440595,
+          33.676609
+        ]
+      },
+      "properties":{
+        "name":"J Paul Daigle",
+        "github":"philosodad",
+        "twitter":"philosodad",
+        "marker-color":"#FFDF5B"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -111.795765,
           40.376895
         ]
@@ -545,22 +561,6 @@
         "name":"alisdair sullivan",
         "github":"talentdeficit",
         "twitter":"talentdeficit",
-        "marker-color":"#FFDF5B"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -84.440595,
-          33.676609
-        ]
-      },
-      "properties":{
-        "name":"J Paul Daigle",
-        "github":"philosodad",
-        "twitter":"philosodad",
         "marker-color":"#FFDF5B"
       }
     }
