@@ -67,6 +67,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          2.1487679,
+          41.39479
+        ]
+      },
+      "properties":{
+        "name":"Barcelona Elixir",
+        "url":"http://www.meetup.com/Barcelona-Elixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -74.22404,
           4.283435
         ]
