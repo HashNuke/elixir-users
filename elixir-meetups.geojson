@@ -627,6 +627,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          7.59446,
+          47.554615
+        ]
+      },
+      "properties":{
+        "name":"The Basel Erlang & Elixir Guild",
+        "url":"http://www.meetup.com/The-Basel-Erlang-Guild",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -100.3030788,
           25.6488126
         ]
