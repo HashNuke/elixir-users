@@ -248,6 +248,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          23.3239467,
+          42.6954322
+        ]
+      },
+      "properties":{
+        "name":"Elixir & Functional Programming Sofia",
+        "url":"http://www.meetup.com/Elixir-Sofia",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           13.4251364,
           52.5075419
         ]
