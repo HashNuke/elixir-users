@@ -263,6 +263,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          16.3800599,
+          48.2206849
+        ]
+      },
+      "properties":{
+        "name":"Elixir & Functional Programming Vienna & Central Europe",
+        "url":"http://www.meetup.com/Elixir-Vienna",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           13.4251364,
           52.5075419
         ]
