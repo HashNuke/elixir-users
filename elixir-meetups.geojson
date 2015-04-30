@@ -368,6 +368,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          24.1291625,
+          56.9714744
+        ]
+      },
+      "properties":{
+        "name":"Elixir Latvia",
+        "url":"http://www.meetup.com/Elixir-Latvia",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -0.1015987,
           51.5286416
         ]
