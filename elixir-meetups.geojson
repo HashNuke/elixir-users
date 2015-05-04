@@ -741,6 +741,21 @@
         "url":"http://www.meetup.com/ZgElixir",
         "marker-color":"#E35D5C"
       }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          8.536715,
+          47.377455
+        ]
+      },
+      "properties":{
+        "name":"Zürich Erlang User Group",
+        "url":"http://www.meetup.com/Zurich-Erlang-User-Group",
+        "marker-color":"#E35D5C"
+      }
     }
   ]
 }
