@@ -399,6 +399,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -99.1436126,
+          19.3907336
+        ]
+      },
+      "properties":{
+        "name":"Elixir Mexico City",
+        "url":"http://www.meetup.com/Elixir-Mexico-City",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           -86.751071,
           36.1779745
         ]
