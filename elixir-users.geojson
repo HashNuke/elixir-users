@@ -502,6 +502,22 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          18.6466,
+          54.352
+        ]
+      },
+      "properties":{
+        "name":"Szymon Jeż",
+        "github":"jeznet",
+        "twitter":"szymon_jez",
+        "marker-color":"#FFDF5B"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           30.3991947,
           60.0382142
         ]
@@ -562,22 +578,6 @@
         "github":"talentdeficit",
         "twitter":"talentdeficit",
         "marker-color":"#FFDF5B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.6466,
-          54.3520
-        ]
-      },
-      "properties": {
-        "name": "Szymon Jeż",
-        "github": "jeznet",
-        "twitter": "szymon_jez",
-        "marker-color": "#FFDF5B"
       }
     }
   ]
