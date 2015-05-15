@@ -474,6 +474,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          11.9723731,
+          51.4728826
+        ]
+      },
+      "properties":{
+        "name":"Halle Elixir",
+        "url":"http://www.meetup.com/Halle-Elixir",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           9.9278215,
           53.558572
         ]
