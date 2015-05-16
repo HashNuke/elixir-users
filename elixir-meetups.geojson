@@ -420,7 +420,7 @@
       },
       "properties":{
         "name":"Elixir Nash",
-        "url":"http://www.meetup.com/elixir-nash/",
+        "url":"http://www.meetup.com/elixir-nash",
         "marker-color":"#E35D5C"
       }
     },
@@ -450,7 +450,7 @@
       },
       "properties":{
         "name":"Erlang and Elixir Buenos Aires User Group",
-        "url":"http://erlangba.com",
+        "url":"http://www.meetup.com/ErlangBA",
         "marker-color":"#E35D5C"
       }
     },
