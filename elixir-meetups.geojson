@@ -747,6 +747,21 @@
       "geometry":{
         "type":"Point",
         "coordinates":[
+          -78.854702,
+          42.8962389
+        ]
+      },
+      "properties":{
+        "name":"WNY Elixir/Erlang Meetup",
+        "url":"http://www.meetup.com/WNY-Elixir-Erlang-Meetup",
+        "marker-color":"#E35D5C"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
           15.9643316,
           45.840196
         ]
