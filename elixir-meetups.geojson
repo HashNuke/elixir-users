@@ -816,6 +816,19 @@
         "url":"http://www.meetup.com/Zurich-Erlang-User-Group",
         "marker-color":"#E35D5C"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.762239, 38.257243]
+      },
+      "properties": {
+        "name": "Elixir Louisville",
+        "url": "http://www.meetup.com/elixir-louisville",
+        "twitter": "https://twitter.com/elixir_lou",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
