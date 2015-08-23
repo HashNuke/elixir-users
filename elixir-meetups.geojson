@@ -823,6 +823,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.8687955,
+          40.4139705
+        ]
+      },
+      "properties": {
+        "name": "Utah Elixir",
+        "url": "http://www.meetup.com/utah-elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.3800599,
           48.2206849
         ]
