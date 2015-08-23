@@ -188,6 +188,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -84.8740424,
+          32.4909977
+        ]
+      },
+      "properties": {
+        "name": "Columbus Elixir & FP",
+        "url": "http://www.meetup.com/Columbus-Elixir-FP",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -84.2021574,
           39.7794904
         ]
