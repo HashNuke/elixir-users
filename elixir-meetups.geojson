@@ -580,6 +580,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.3660458,
+          40.6252415
+        ]
+      },
+      "properties": {
+        "name": "Lehigh Valley Elixir",
+        "url": "http://www.meetup.com/Lehigh-Valley-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -9.1602037,
           38.7436266
         ]
