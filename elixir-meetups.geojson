@@ -702,6 +702,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.4804206,
+          34.0218628
+        ]
+      },
+      "properties": {
+        "name": "Santa Monica Elixir Meetup",
+        "url": "http://www.meetup.com/Santa-Monica-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.3705,
           43.05945
         ]
