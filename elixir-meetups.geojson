@@ -611,6 +611,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          72.8812042,
+          19.0822507
+        ]
+      },
+      "properties": {
+        "name": "Mumbai Elixir Meetup (MEM)",
+        "url": "http://www.meetup.com/Mumbai-Elixir-Meetup-MEM",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.7852455,
           36.1866405
         ]
