@@ -505,6 +505,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.4376,
+          37.7577
+        ]
+      },
+      "properties": {
+        "name": "Erlang & Elixir SF",
+        "url": "http://www.meetup.com/ErlangSF",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.440142,
           -34.590026
         ]
