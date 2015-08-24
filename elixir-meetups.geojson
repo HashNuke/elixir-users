@@ -687,6 +687,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.125051,
+          33.6054149
+        ]
+      },
+      "properties": {
+        "name": "Phoenix Elixir Language Meetup",
+        "url": "http://www.meetup.com/Phoenix-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.9805005,
           40.4313684
         ]
