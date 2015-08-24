@@ -535,6 +535,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1487679,
+          41.39479
+        ]
+      },
+      "properties": {
+        "name": "Functional Programming Barcelona",
+        "url": "http://www.meetup.com/Functional-Programming-Barcelona",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.9723731,
           51.4728826
         ]
