@@ -308,6 +308,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.081267,
+          37.4038194
+        ]
+      },
+      "properties": {
+        "name": "Elixir / Erlang SV",
+        "url": "http://www.meetup.com/Erlang-SV",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.4251364,
           52.5075419
         ]
