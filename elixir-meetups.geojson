@@ -973,15 +973,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.4268,
-          26.1025
+          26.102435,
+          44.426794
         ]
       },
       "properties": {
         "name": "Bucharest/Romania |> Elixir |> User Group",
         "url": "http://www.meetup.com/Bucharest-Elixir-User-Group/",
         "twitter": "https://twitter.com/ElixirLangRO",
-        "marker-color": "#FFFF33"
+        "marker-color": "#E35D5C"
       }
     }
   ]

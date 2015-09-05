@@ -585,8 +585,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.4268,
-          26.1025
+          26.102435,
+          44.426794
         ]
       },
       "properties": {
@@ -594,7 +594,7 @@
         "github": "Tica2",
         "twitter": "Tica2",
         "email": "petrica_chiriac@fluxinternet.ro",
-        "marker-color": "#FFFF33"
+        "marker-color": "#FFDF5B"
       }
     }
   ]
