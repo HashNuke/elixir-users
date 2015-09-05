@@ -579,6 +579,23 @@
         "twitter": "talentdeficit",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.102435,
+          44.426794
+        ]
+      },
+      "properties": {
+        "name": "Petrica Clement Chiriac",
+        "github": "Tica2",
+        "twitter": "Tica2",
+        "email": "petrica_chiriac@fluxinternet.ro",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
