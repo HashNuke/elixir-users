@@ -748,6 +748,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.774252,
+          33.6870001
+        ]
+      },
+      "properties": {
+        "name": "Orange County Elixir",
+        "url": "http://www.meetup.com/Orange-County-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -112.125051,
           33.6054149
         ]
