@@ -823,6 +823,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -46.5952992,
+          -23.6824124
+        ]
+      },
+      "properties": {
+        "name": "SP |> Elixir",
+        "url": "http://www.meetup.com/spelixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.4804206,
           34.0218628
         ]
