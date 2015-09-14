@@ -763,6 +763,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3491936,
+          48.8805878
+        ]
+      },
+      "properties": {
+        "name": "Paris.ex",
+        "url": "http://www.meetup.com/elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -112.125051,
           33.6054149
         ]
