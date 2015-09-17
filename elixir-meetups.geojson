@@ -974,6 +974,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.1239135,
+          49.2569332
+        ]
+      },
+      "properties": {
+        "name": "Vancouver Erlang & Elixir Meetup",
+        "url": "http://www.meetup.com/Vancouver-Erlang-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.3800599,
           48.2206849
         ]
