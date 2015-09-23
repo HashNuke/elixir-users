@@ -596,6 +596,23 @@
         "twitter": "talentdeficit",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3436,
+          31.5497
+        ]
+      },
+      "properties": {
+        "name": "Syed Murtza",
+        "github": "murtza",
+        "twitter": "murtza",
+        "email": "syed.murtza@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
