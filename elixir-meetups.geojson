@@ -521,6 +521,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -43.1786702,
+          -22.9185856
+        ]
+      },
+      "properties": {
+        "name": "Elixir |> RJ",
+        "url": "http://www.meetup.com/elixir-rj",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -46.654048,
           -23.565257
         ]

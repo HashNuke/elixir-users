@@ -519,6 +519,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          74.3436,
+          31.5497
+        ]
+      },
+      "properties": {
+        "name": "Syed Murtza",
+        "github": "murtza",
+        "twitter": "murtza",
+        "email": "syed.murtza@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.6466,
           54.352
         ]
@@ -594,23 +611,6 @@
         "name": "alisdair sullivan",
         "github": "talentdeficit",
         "twitter": "talentdeficit",
-        "marker-color": "#FFDF5B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.3436,
-          31.5497
-        ]
-      },
-      "properties": {
-        "name": "Syed Murtza",
-        "github": "murtza",
-        "twitter": "murtza",
-        "email": "syed.murtza@gmail.com",
         "marker-color": "#FFDF5B"
       }
     }
