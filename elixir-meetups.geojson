@@ -944,6 +944,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.205875,
+          -33.877711
+        ]
+      },
+      "properties": {
+        "name": "Sydney Elixir Meetup",
+        "url": "http://www.meetup.com/sydney-ex",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.59446,
           47.554615
         ]
