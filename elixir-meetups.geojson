@@ -339,6 +339,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.9668786,
+          57.7037456
+        ]
+      },
+      "properties": {
+        "name": "Elixir Addicts",
+        "url": "http://www.meetup.com/elixir-addicts",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.4251364,
           52.5075419
         ]
