@@ -491,6 +491,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -93.2738891,
+          44.9850557
+        ]
+      },
+      "properties": {
+        "name": "Elixir MN",
+        "url": "http://www.meetup.com/Elixir-MN",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.9561825,
           -37.8174134
         ]
