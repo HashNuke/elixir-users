@@ -656,6 +656,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.5331801,
+          30.2469717
+        ]
+      },
+      "properties": {
+        "name": "Jax.Ex",
+        "url": "http://www.meetup.com/Jax-Ex",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.2499534,
           34.043212
         ]
