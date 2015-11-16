@@ -973,6 +973,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.99572,
+          50.26385
+        ]
+      },
+      "properties": {
+        "name": "Silesian BEAMers",
+        "url": "http://silesian-beamers.github.io",
+        "twitter": "silesianbeamers",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.9875455,
           59.326142
         ]

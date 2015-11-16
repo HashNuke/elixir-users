@@ -569,6 +569,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.6667,
+          50.2833
+        ]
+      },
+      "properties": {
+        "name": "Wojtek Gawroński",
+        "github": "afronski",
+        "twitter": "afronski",
+        "email": "afronski@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           100.4667,
           13.75
         ]
