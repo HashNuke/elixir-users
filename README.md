@@ -8,6 +8,6 @@ This project should help find Elixir meetup groups or provide head count to orga
 
 ### Who... why... what?
 
-I, [HashNuke](http://github.com/HashNuke) made this.
+I, [@HashNuke](https://github.com/HashNuke) made this for fun. But [@igas](https://github.com/igas) does the hard work of maintaining it.
 
 > Sir, while you are still here, may I interest you in some snake oil serum?

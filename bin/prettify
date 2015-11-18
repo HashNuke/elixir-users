@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+
+require 'json'
+
+%w[elixir-meetups elixir-users].each do |file|
+  path = File.expand_path("../../#{file}.geojson", __FILE__)
+  json = JSON.parse(File.read(path))
+  json['features'] = json['features'].sort_by do |meetup|
+    meetup['geometry']['coordinates'][0]
+  end
+  json['features'] = json['features'].sort_by do |meetup|
+    meetup['properties']['name']
+  end
+  File.open(path, "w") do |f| 
+    f.write(JSON.pretty_generate(json))
+  end
+end

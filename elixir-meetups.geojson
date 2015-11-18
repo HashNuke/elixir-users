@@ -1,21 +1,1139 @@
 {
   "type": "FeatureCollection",
   "name": "Elixir meetups",
-
   "features": [
-
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [30.3250, 59.9174]
+        "coordinates": [
+          4.8986142,
+          52.3747158
+        ]
       },
       "properties": {
-        "name": "Northwest Alchemists",
-        "url": "http://meetup.com/Northwest-Alchemists-Elixir-User-Group/",
+        "name": "Amsterdam Elixir",
+        "url": "http://www.meetup.com/Amsterdam-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.420604,
+          33.7677129
+        ]
+      },
+      "properties": {
+        "name": "Atlanta Elixir Meetup",
+        "url": "http://www.meetup.com/atlantaelixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7534014,
+          30.3077609
+        ]
+      },
+      "properties": {
+        "name": "Austin Elixir",
+        "url": "http://www.meetup.com/Austin-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6331108,
+          13.7246005
+        ]
+      },
+      "properties": {
+        "name": "BKK Erlang & Elixir Developers",
+        "url": "http://www.meetup.com/BKK-Erlang-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6309395,
+          12.9539974
+        ]
+      },
+      "properties": {
+        "name": "Bangalore Elixir",
+        "url": "http://www.meetup.com/Bangalore-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1487679,
+          41.39479
+        ]
+      },
+      "properties": {
+        "name": "Barcelona Elixir",
+        "url": "http://www.meetup.com/Barcelona-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22404,
+          4.283435
+        ]
+      },
+      "properties": {
+        "name": "Bogotá |> Elixir",
+        "url": "http://www.meetup.com/Bogota-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0571571,
+          42.3133735
+        ]
+      },
+      "properties": {
+        "name": "Boston Elixir",
+        "url": "http://www.meetup.com/Boston-Elixir",
+        "twitter": "http://twitter.com/bostonelixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0028595,
+          -27.4073899
+        ]
+      },
+      "properties": {
+        "name": "Brisbane Elixir",
+        "url": "http://www.meetup.com/brisbane-elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.102435,
+          44.426794
+        ]
+      },
+      "properties": {
+        "name": "Bucharest/Romania |> Elixir |> User Group",
+        "url": "http://www.meetup.com/Bucharest-Elixir-User-Group/",
+        "twitter": "https://twitter.com/ElixirLangRO",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569128,
+          55.675914
+        ]
+      },
+      "properties": {
+        "name": "CPHex - Copenhagen Elixir",
+        "url": "https://www.github.com/cphex/cphex/",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7321555,
+          41.8337329
+        ]
+      },
+      "properties": {
+        "name": "ChicagoElixir",
+        "url": "http://www.meetup.com/ChicagoElixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5404014,
+          39.1363401
+        ]
+      },
+      "properties": {
+        "name": "Cincinnati Elixir Meetup",
+        "url": "http://www.meetup.com/Cincinnati-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8740424,
+          32.4909977
+        ]
+      },
+      "properties": {
+        "name": "Columbus Elixir & FP",
+        "url": "http://www.meetup.com/Columbus-Elixir-FP",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2021574,
+          39.7794904
+        ]
+      },
+      "properties": {
+        "name": "Dayton Elixir",
+        "url": "http://www.meetup.com/DaytonElixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.099205,
+          42.352711
+        ]
+      },
+      "properties": {
+        "name": "Detroit Erlang and Elixir Meetup",
+        "url": "http://www.meetup.com/Detroit-Erlang-and-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.58819,
+          50.72315
+        ]
+      },
+      "properties": {
+        "name": "DevSpace Elixir Study Group",
+        "url": "http://www.meetup.com/devspace-elixir-study-group",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979681,
+          40.7033121
+        ]
+      },
+      "properties": {
+        "name": "ELIXIR NYC",
+        "url": "http://www.meetup.com/NYC-Elixir-Language-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5320991,
+          46.0661174
+        ]
+      },
+      "properties": {
+        "name": "Elixir & Functional Programming Slovenia & Central Europe",
+        "url": "http://www.meetup.com/Elixir-Slovenia",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3239467,
+          42.6954322
+        ]
+      },
+      "properties": {
+        "name": "Elixir & Functional Programming Sofia",
+        "url": "http://www.meetup.com/Elixir-Sofia",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3800599,
+          48.2206849
+        ]
+      },
+      "properties": {
+        "name": "Elixir & Functional Programming Vienna & Central Europe",
+        "url": "http://www.meetup.com/Elixir-Vienna",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.081267,
+          37.4038194
+        ]
+      },
+      "properties": {
+        "name": "Elixir / Erlang SV",
+        "url": "http://www.meetup.com/Erlang-SV",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9668786,
+          57.7037456
+        ]
+      },
+      "properties": {
+        "name": "Elixir Addicts",
+        "url": "http://www.meetup.com/elixir-addicts",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4251364,
+          52.5075419
+        ]
+      },
+      "properties": {
+        "name": "Elixir Berlin",
+        "url": "http://www.meetup.com/Elixir-Berlin",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9564772,
+          18.7695796
+        ]
+      },
+      "properties": {
+        "name": "Elixir Chiang Mai",
+        "url": "https://plus.google.com/communities/104373497559311644664",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3354131,
+          20.673792
+        ]
+      },
+      "properties": {
+        "name": "Elixir GDL",
+        "url": "http://www.meetup.com/ElixirGDL",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6307328,
+          45.5515731
+        ]
+      },
+      "properties": {
+        "name": "Elixir Games PDX",
+        "url": "http://www.meetup.com/pdx-elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9410248,
+          60.1733244
+        ]
+      },
+      "properties": {
+        "name": "Elixir Helsinki",
+        "url": "http://www.meetup.com/Helsinki-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0048731,
+          50.0467656
+        ]
+      },
+      "properties": {
+        "name": "Elixir Kraków",
+        "url": "http://www.meetup.com/Elixir-Krakow",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1291625,
+          56.9714744
+        ]
+      },
+      "properties": {
+        "name": "Elixir Latvia",
+        "url": "http://www.meetup.com/Elixir-Latvia",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1015987,
+          51.5286416
+        ]
+      },
+      "properties": {
+        "name": "Elixir London",
+        "url": "http://www.meetup.com/Elixir-London",
+        "twitter": "https://twitter.com/ElixirLangUK",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.762239,
+          38.257243
+        ]
+      },
+      "properties": {
+        "name": "Elixir Louisville",
+        "url": "http://www.meetup.com/elixir-louisville",
+        "twitter": "https://twitter.com/elixir_lou",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2738891,
+          44.9850557
+        ]
+      },
+      "properties": {
+        "name": "Elixir MN",
+        "url": "http://www.meetup.com/Elixir-MN",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9561825,
+          -37.8174134
+        ]
+      },
+      "properties": {
+        "name": "Elixir Melbourne",
+        "url": "http://www.meetup.com/Elixir-Melbourne/",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1436126,
+          19.3907336
+        ]
+      },
+      "properties": {
+        "name": "Elixir Mexico City",
+        "url": "http://www.meetup.com/Elixir-Mexico-City",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.751071,
+          36.1779745
+        ]
+      },
+      "properties": {
+        "name": "Elixir Nash",
+        "url": "http://www.meetup.com/elixir-nash",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1786702,
+          -22.9185856
+        ]
+      },
+      "properties": {
+        "name": "Elixir |> RJ",
+        "url": "http://www.meetup.com/elixir-rj",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.654048,
+          -23.565257
+        ]
+      },
+      "properties": {
+        "name": "Elug-sp Elixir User Grup São Paulo",
+        "url": "https://groups.google.com/forum/?hl=pt#!forum/elug-sp",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4376,
+          37.7577
+        ]
+      },
+      "properties": {
+        "name": "Erlang & Elixir SF",
+        "url": "http://www.meetup.com/ErlangSF",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.440142,
+          -34.590026
+        ]
+      },
+      "properties": {
+        "name": "Erlang and Elixir Buenos Aires User Group",
+        "url": "http://www.meetup.com/ErlangBA",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8986142,
+          52.3747158
+        ]
+      },
+      "properties": {
+        "name": "FP AMS",
+        "url": "http://www.meetup.com/fp-ams",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1487679,
+          41.39479
+        ]
+      },
+      "properties": {
+        "name": "Functional Programming Barcelona",
+        "url": "http://www.meetup.com/Functional-Programming-Barcelona",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9723731,
+          51.4728826
+        ]
+      },
+      "properties": {
+        "name": "Halle Elixir",
+        "url": "http://www.meetup.com/Halle-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9278215,
+          53.558572
+        ]
+      },
+      "properties": {
+        "name": "Hamburg BEAMers - Erlang & Elixir User Group",
+        "url": "http://www.meetup.com/Hamburg-BEAMers",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5331801,
+          30.2469717
+        ]
+      },
+      "properties": {
+        "name": "Jax.Ex",
+        "url": "http://www.meetup.com/Jax-Ex",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2499534,
+          34.043212
+        ]
+      },
+      "properties": {
+        "name": "LA Elixir Meetup",
+        "url": "http://www.meetup.com/LA-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.219682,
+          -25.75865
+        ]
+      },
+      "properties": {
+        "name": "Lambda Luminaries",
+        "url": "http://www.meetup.com/lambda-luminaries",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3660458,
+          40.6252415
+        ]
+      },
+      "properties": {
+        "name": "Lehigh Valley Elixir",
+        "url": "http://www.meetup.com/Lehigh-Valley-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1602037,
+          38.7436266
+        ]
+      },
+      "properties": {
+        "name": "Lisbon |> Elixir",
+        "url": "http://www.meetup.com/lisbon-elixir",
+        "twitter": "https://twitter.com/lisbonelixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9797033,
+          14.5980716
+        ]
+      },
+      "properties": {
+        "name": "Manila Elixir & Erlang User Group",
+        "url": "http://www.meetup.com/Manila-Elixir-User-Group",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8812042,
+          19.0822507
+        ]
+      },
+      "properties": {
+        "name": "Mumbai Elixir Meetup (MEM)",
+        "url": "http://www.meetup.com/Mumbai-Elixir-Meetup-MEM",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7852455,
+          36.1866405
+        ]
+      },
+      "properties": {
+        "name": "NashFP",
+        "url": "http://nashfp.org",
+        "twitter": "https://twitter.com/nashfp",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4407885,
+          38.8448844
+        ]
+      },
+      "properties": {
+        "name": "NoVA Elixir Meetup",
+        "url": "http://www.meetup.com/NoVA-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.774252,
+          33.6870001
+        ]
+      },
+      "properties": {
+        "name": "Orange County Elixir",
+        "url": "http://www.meetup.com/Orange-County-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3491936,
+          48.8805878
+        ]
+      },
+      "properties": {
+        "name": "Paris.ex",
+        "url": "http://www.meetup.com/elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.125051,
+          33.6054149
+        ]
+      },
+      "properties": {
+        "name": "Phoenix Elixir Language Meetup",
+        "url": "http://www.meetup.com/Phoenix-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9805005,
+          40.4313684
+        ]
+      },
+      "properties": {
+        "name": "Pittsburgh Code & Supply",
+        "url": "http://www.meetup.com/Pittsburgh-Code-Supply",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2578304,
+          43.6534968
+        ]
+      },
+      "properties": {
+        "name": "Portland Erlang & Elixir",
+        "url": "http://www.meetup.com/Portland-Erlang-Elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.654422,
+          45.5424364
+        ]
+      },
+      "properties": {
+        "name": "Portland Erlang and Elixir User Group",
+        "url": "http://www.meetup.com/Portland-Erlang-User-Group",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5952992,
+          -23.6824124
+        ]
+      },
+      "properties": {
+        "name": "SP |> Elixir",
+        "url": "http://www.meetup.com/spelixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4804206,
+          34.0218628
+        ]
+      },
+      "properties": {
+        "name": "Santa Monica Elixir Meetup",
+        "url": "http://www.meetup.com/Santa-Monica-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3705,
+          43.05945
+        ]
+      },
+      "properties": {
+        "name": "Sapporo.beam",
+        "url": "http://sapporo-beam.github.io",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3359059,
+          47.614848
+        ]
+      },
+      "properties": {
+        "name": "Seattle Erlang and Elixir User Group",
+        "url": "http://www.meetup.com/Seattle-Erlang-User-Group",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710388,
+          35.673343
+        ]
+      },
+      "properties": {
+        "name": "Shinjuku.ex",
+        "url": "https://www.facebook.com/groups/shinjuku.ex",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.99572,
+          50.26385
+        ]
+      },
+      "properties": {
+        "name": "Silesian BEAMers",
+        "url": "http://silesian-beamers.github.io",
+        "twitter": "silesianbeamers",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9875455,
+          59.326142
+        ]
+      },
+      "properties": {
+        "name": "Stockholm Elixir",
+        "url": "http://www.meetup.com/stockholm-elixir",
+        "twitter": "https://twitter.com/StockholmElixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.205875,
+          -33.877711
+        ]
+      },
+      "properties": {
+        "name": "Sydney Elixir Meetup",
+        "url": "http://www.meetup.com/sydney-ex",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59446,
+          47.554615
+        ]
+      },
+      "properties": {
+        "name": "The Basel Erlang & Elixir Guild",
+        "url": "http://www.meetup.com/The-Basel-Erlang-Guild",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3030788,
+          25.6488126
+        ]
+      },
+      "properties": {
+        "name": "Usuarios de Elixir/Erlang de Monterrey",
+        "url": "http://www.meetup.com/Usuarios-de-Elixir-Erlang-de-Monterrey",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8687955,
+          40.4139705
+        ]
+      },
+      "properties": {
+        "name": "Utah Elixir",
+        "url": "http://www.meetup.com/utah-elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1239135,
+          49.2569332
+        ]
+      },
+      "properties": {
+        "name": "Vancouver Erlang & Elixir Meetup",
+        "url": "http://www.meetup.com/Vancouver-Erlang-Elixir-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3800599,
+          48.2206849
+        ]
+      },
+      "properties": {
+        "name": "Vienna BEAMers - Erlang & Elixir User Group",
+        "url": "http://www.meetup.com/Vienna-BEAMers",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.854702,
+          42.8962389
+        ]
+      },
+      "properties": {
+        "name": "WNY Elixir/Erlang Meetup",
+        "url": "http://www.meetup.com/WNY-Elixir-Erlang-Meetup",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9643316,
+          45.840196
+        ]
+      },
+      "properties": {
+        "name": "Zagreb Elixir",
+        "url": "http://www.meetup.com/ZgElixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.536715,
+          47.377455
+        ]
+      },
+      "properties": {
+        "name": "Zürich Erlang User Group",
+        "url": "http://www.meetup.com/Zurich-Erlang-User-Group",
         "marker-color": "#E35D5C"
       }
     }
-
   ]
 }
