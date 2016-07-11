@@ -630,6 +630,22 @@
         "twitter": "talentdeficit",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4206707,
+          73.0890153
+        ]
+      },
+      "properties": {
+        "name": "Azhar Malik",
+        "github": "azharmalik3",
+        "twitter": "azharmalik3",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
