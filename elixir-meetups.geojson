@@ -1134,6 +1134,22 @@
         "url": "http://www.meetup.com/Zurich-Erlang-User-Group",
         "marker-color": "#E35D5C"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.851832,
+          -82.399679
+        ]
+      },
+      "properties": {
+        "name": "Upstate Elixir",
+        "url": "http://meetup.com/Upstate-Elixir/",
+        "twitter": "UpstateElixir",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
