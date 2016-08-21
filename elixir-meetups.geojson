@@ -7,6 +7,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.859336,
+          8.038209
+        ]
+      },
+      "properties": {
+        "name": "Accra BEAMers",
+        "url": "http://accrabeamers.github.io",
+        "marker-color": "#E35D5C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.8986142,
           52.3747158
         ]
