@@ -15,6 +15,7 @@
         "name": "Accra BEAMers",
         "url": "http://accrabeamers.github.io",
         "marker-color": "#E35D5C"
+      }
     },
     {
       "type": "Feature",
@@ -1049,6 +1050,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.399679,
+          34.851832
+        ]
+      },
+      "properties": {
+        "name": "Upstate Elixir",
+        "url": "http://meetup.com/Upstate-Elixir/",
+        "twitter": "UpstateElixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -100.3030788,
           25.6488126
         ]
@@ -1146,22 +1163,6 @@
       "properties": {
         "name": "Zürich Erlang User Group",
         "url": "http://www.meetup.com/Zurich-Erlang-User-Group",
-        "marker-color": "#E35D5C"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.399679,
-          34.851832
-        ]
-      },
-      "properties": {
-        "name": "Upstate Elixir",
-        "url": "http://meetup.com/Upstate-Elixir/",
-        "twitter": "UpstateElixir",
         "marker-color": "#E35D5C"
       }
     }

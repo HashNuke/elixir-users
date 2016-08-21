@@ -57,6 +57,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.0890153,
+          31.4206707
+        ]
+      },
+      "properties": {
+        "name": "Azhar Malik",
+        "github": "azharmalik3",
+        "twitter": "azharmalik3",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -90.05,
           29.95
         ]
@@ -313,6 +329,23 @@
         "name": "Julius Beckmann",
         "github": "h4cc",
         "twitter": "h4cc",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.204546,
+          5.551616
+        ]
+      },
+      "properties": {
+        "name": "Kirk S. Agbenyegah",
+        "github": "savekirk",
+        "twitter": "savekirk",
+        "email": "savekirk@gmail.com",
         "marker-color": "#FFDF5B"
       }
     },
@@ -586,8 +619,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4667,
-          13.75
+          -123.1,
+          49.25
         ]
       },
       "properties": {
@@ -603,8 +636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.1,
-          49.25
+          100.4667,
+          13.75
         ]
       },
       "properties": {
@@ -628,36 +661,6 @@
         "name": "alisdair sullivan",
         "github": "talentdeficit",
         "twitter": "talentdeficit",
-        "marker-color": "#FFDF5B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.0890153,
-          31.4206707
-        ]
-      },
-      "properties": {
-        "name": "Azhar Malik",
-        "github": "azharmalik3",
-        "twitter": "azharmalik3",
-        "marker-color": "#FFDF5B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-          "type": "Point",
-          "coordinates": [-0.204546, 5.551616]
-      },
-      "properties": {
-        "name": "Kirk S. Agbenyegah",
-        "github": "savekirk",
-        "twitter": "savekirk",
-        "email": "savekirk@gmail.com",
         "marker-color": "#FFDF5B"
       }
     }
