@@ -663,6 +663,19 @@
         "twitter": "talentdeficit",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6155, 55.7522]
+      },
+      "properties": {
+        "name": "Nikita Sobolev",
+        "github": "sobolevn",
+        "email": "mail@sobolevn.me",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
