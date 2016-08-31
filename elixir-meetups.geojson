@@ -1165,6 +1165,18 @@
         "url": "http://www.meetup.com/Zurich-Erlang-User-Group",
         "marker-color": "#E35D5C"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6155, 55.7522]
+      },
+      "properties": {
+        "name": "Elixir Lang Moscow",
+        "url": "http://elixir-lang.moscow",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
