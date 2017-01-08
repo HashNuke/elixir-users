@@ -676,6 +676,20 @@
         "email": "mail@sobolevn.me",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.5253, -97.3363]
+      },
+      "properties": {
+        "name": "Ryan Thames",
+        "github": "ryanthames",
+        "twitter": "ryanthames",
+        "email": "ryanthames@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
