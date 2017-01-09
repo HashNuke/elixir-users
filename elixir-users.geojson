@@ -681,7 +681,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [32.5253, -97.3363]
+        "coordinates": [-97.3363, 32.5253]
       },
       "properties": {
         "name": "Ryan Thames",
