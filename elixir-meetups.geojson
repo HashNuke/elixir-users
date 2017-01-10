@@ -1182,14 +1182,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [45.499748, 9.240386]
+        "coordinates": [9.240386, 45.499748]
       },
       "properties": {
         "name": "Paolo Montrasio",
         "github": "pmontrasio",
         "twitter": "pmontrasio",
         "email": "paolo.montrasio@connettiva.eu",
-        "marker-color": "#4078c0"
+        "marker-color": "#E35D5C"
       }
     }
   ]
