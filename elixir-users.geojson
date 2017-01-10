@@ -690,6 +690,20 @@
         "email": "ryanthames@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.470556, 44.509722]
+      },
+      "properties": {
+        "name": "Paolo Laurenti",
+        "github": "paololaurenti",
+        "twitter": "paololaurenti",
+        "email": "laurentipaolo@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
