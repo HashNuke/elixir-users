@@ -690,6 +690,21 @@
         "email": "ryanthames@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.0382142, 30.3991947]
+      },
+      "properties": {
+        "name": "Vladimir Smyshlyaev",
+        "github": "vforvova",
+        "twitter": "vforvova",
+        "email": "v@vforvova.ru",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
