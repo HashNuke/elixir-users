@@ -690,6 +690,20 @@
         "email": "ryanthames@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.80249, 33.520661]
+      },
+      "properties": {
+        "name": "Josh Adams",
+        "github": "knewter",
+        "twitter": "knewter",
+        "email": "josh.rubyist@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
