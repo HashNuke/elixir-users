@@ -695,7 +695,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [44.49381, 11.33875]
+        "coordinates": [11.33875, 44.49381]
       },
       "properties": {
         "name": "Gianluca Padovani",
