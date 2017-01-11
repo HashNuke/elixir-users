@@ -690,6 +690,20 @@
         "email": "ryanthames@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.49381, 11.33875]
+      },
+      "properties": {
+        "name": "Gianluca Padovani",
+        "github": "gpad",
+        "twitter": "gpad619",
+        "email": "gpadovani@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
