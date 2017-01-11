@@ -1177,6 +1177,20 @@
         "url": "http://elixir-lang.moscow",
         "marker-color": "#E35D5C"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.33875, 44.49381]
+      },
+      "properties": {
+        "name": "Italian Beam",
+        "url": "http://www.italian-elixir.org/",
+        "twitter": "https://twitter.com/beam_italia",
+        "slack": "http://beam-italia.slack.com/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
