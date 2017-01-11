@@ -690,6 +690,20 @@
         "email": "ryanthames@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.44050439999999, -34.590296699999996]
+      },
+      "properties": {
+        "name": "Brujo Benavides",
+        "github": "elbrujohalcon",
+        "twitter": "elbrujohalcon",
+        "email": "elbrujohalcon@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
