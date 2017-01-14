@@ -174,6 +174,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.03991,
+          47.49801
+        ]
+      },
+      "properties": {
+        "name": "Budapest |> Elixir",
+        "url": "https://www.meetup.com/budapest-elixir/",
+        "github": "https://github.com/budapest-elixir",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.569128,
           55.675914
         ]
@@ -1175,6 +1191,20 @@
       "properties": {
         "name": "Elixir Lang Moscow",
         "url": "http://elixir-lang.moscow",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.240386, 45.499748]
+      },
+      "properties": {
+        "name": "Paolo Montrasio",
+        "github": "pmontrasio",
+        "twitter": "pmontrasio",
+        "email": "paolo.montrasio@connettiva.eu",
         "marker-color": "#E35D5C"
       }
     }
