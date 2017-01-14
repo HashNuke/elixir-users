@@ -596,6 +596,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [121.4731455, 31.232143]
+      },
+      "properties": {
+        "name": "Elixir Shanghai",
+        "url": "https://www.meetup.com/Elixir-Shanghai/",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [
           -46.654048,
           -23.565257
