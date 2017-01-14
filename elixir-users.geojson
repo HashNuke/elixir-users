@@ -40,6 +40,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.8562,
+          18.5167
+        ]
+      },
+      "properties": {
+        "name": "Anil Wadghule",
+        "github": "anildigital",
+        "twitter": "anildigital",
+        "marker-color": "#FFDF5B"
+      }
+    },    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.4275,
           59.8981
         ]
