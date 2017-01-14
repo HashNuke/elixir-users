@@ -40,6 +40,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.8562,
+          18.5167
+        ]
+      },
+      "properties": {
+        "name": "Anil Wadghule",
+        "github": "anildigital",
+        "twitter": "anildigital",
+        "marker-color": "#FFDF5B"
+      }
+    },    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.4275,
           59.8981
         ]
@@ -688,6 +704,48 @@
         "github": "ryanthames",
         "twitter": "ryanthames",
         "email": "ryanthames@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.470556, 44.509722]
+      },
+      "properties": {
+        "name": "Paolo Laurenti",
+        "github": "paololaurenti",
+        "twitter": "paololaurenti",
+        "email": "laurentipaolo@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.44050439999999, -34.590296699999996]
+      },
+      "properties": {
+        "name": "Brujo Benavides",
+        "github": "elbrujohalcon",
+        "twitter": "elbrujohalcon",
+        "email": "elbrujohalcon@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.33875, 44.49381]
+      },
+      "properties": {
+        "name": "Gianluca Padovani",
+        "github": "gpad",
+        "twitter": "gpad619",
+        "email": "gpadovani@gmail.com",
         "marker-color": "#FFDF5B"
       }
     }
