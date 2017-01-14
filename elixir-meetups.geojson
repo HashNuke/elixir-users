@@ -1177,6 +1177,20 @@
         "url": "http://elixir-lang.moscow",
         "marker-color": "#E35D5C"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.240386, 45.499748]
+      },
+      "properties": {
+        "name": "Paolo Montrasio",
+        "github": "pmontrasio",
+        "twitter": "pmontrasio",
+        "email": "paolo.montrasio@connettiva.eu",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }

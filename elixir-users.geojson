@@ -695,6 +695,20 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [11.470556, 44.509722]
+      },
+      "properties": {
+        "name": "Paolo Laurenti",
+        "github": "paololaurenti",
+        "twitter": "paololaurenti",
+        "email": "laurentipaolo@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-58.44050439999999, -34.590296699999996]
       },
       "properties": {
