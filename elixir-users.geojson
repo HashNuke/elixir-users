@@ -718,6 +718,20 @@
         "email": "elbrujohalcon@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.33875, 44.49381]
+      },
+      "properties": {
+        "name": "Gianluca Padovani",
+        "github": "gpad",
+        "twitter": "gpad619",
+        "email": "gpadovani@gmail.com",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
