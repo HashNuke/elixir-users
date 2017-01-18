@@ -748,6 +748,20 @@
         "email": "gpadovani@gmail.com",
         "marker-color": "#FFDF5B"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4843, 41.8690]
+      },
+      "properties": {
+        "name": "Claudio D'Alicandro",
+        "github": "claudio-dalicandro",
+        "twitter": "_cdali",
+        "email": "claudio@dalicandro.me",
+        "marker-color": "#FFDF5B"
+      }
     }
   ]
 }
