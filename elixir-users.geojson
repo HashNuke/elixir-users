@@ -50,7 +50,7 @@
         "twitter": "anildigital",
         "marker-color": "#FFDF5B"
       }
-    },    
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -760,6 +760,19 @@
         "github": "claudio-dalicandro",
         "twitter": "_cdali",
         "email": "claudio@dalicandro.me",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.902798, 52.455602]
+      },
+      "properties": {
+        "name": "Tobiasz Małecki",
+        "github": "amatalai",
+        "twitter": "amatalai",
         "marker-color": "#FFDF5B"
       }
     }
