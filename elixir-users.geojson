@@ -775,6 +775,20 @@
         "twitter": "amatalai",
         "marker-color": "#FFDF5B"
       }
-    }
+    },
+    {
+     "type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [16.902798, 52.455602]
+     },
+     "properties": {
+       "name": "Karol Wojtaszek",
+       "github": "kwojtaszek",
+       "twitter": "karolwojtaszek",
+       "email": "karol@appunite.com",
+       "marker-color": "#FFDF5B"
+     }
+   }
   ]
 }
