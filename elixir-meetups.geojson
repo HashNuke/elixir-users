@@ -805,6 +805,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          
+        ]
+      },
+      "properties": {
+        "name": "Elixir Milano",
+        "url": "https://www.meetup.com/Elixir-Milano/",
+        "marker-color": "#E35D5C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           72.8812042,
           19.0822507
         ]
