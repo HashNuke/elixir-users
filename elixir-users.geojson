@@ -517,6 +517,20 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-99.1529042,22.1005565]
+      },
+      "properties": {
+        "name": "Andres Garcia Morales",
+        "github": "nerus",
+        "twitter": "agarciam77",
+        "email": "andres.garcia@nerus.com.mx",
+        "marker-color": "#FFDF5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [
           -114.0667,
           51.05
