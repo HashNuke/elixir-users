@@ -1253,7 +1253,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [25.0169639, 121.2261948]
+        "coordinates": [121.22619, 25.01696]
       },
       "properties": {
         "name": "Taipei Elixir Erlang Meetup Group",
