@@ -1248,6 +1248,18 @@
         "slack": "http://beam-italia.slack.com/",
         "marker-color": "#E35D5C"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.0169639, 121.2261948]
+      },
+      "properties": {
+        "name": "Taipei Elixir Erlang Meetup Group",
+        "url": "https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/",
+        "marker-color": "#E35D5C"
+      }
+    }    
   ]
 }
