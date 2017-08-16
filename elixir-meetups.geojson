@@ -1260,6 +1260,18 @@
         "url": "https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/",
         "marker-color": "#E35D5C"
       }
-    }    
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.2177, -30.0347]
+      },
+      "properties": {
+        "name": "Elixir POA",
+        "url": "https://www.meetup.com/Elixir-POA",
+        "marker-color": "#E35D5C"
+      }
+    }
   ]
 }
