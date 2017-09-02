@@ -820,6 +820,20 @@
        "email": "karol@appunite.com",
        "marker-color": "#FFDF5B"
      }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [50.04135132, 26.2361248]
+     },
+     "properties": {
+       "name": "Omar Bahareth",
+       "github": "obahareth",
+       "twitter": "o_bahareth",
+       "email": "omar@omar.engineer",
+       "marker-color": "#FFDF5B"
+     }
    }
   ]
 }
