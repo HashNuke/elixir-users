@@ -1272,6 +1272,18 @@
         "url": "https://www.meetup.com/Elixir-POA",
         "marker-color": "#E35D5C"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2481, 43.5445]
+      },
+      "properties": {
+        "name": "Elixir Magic",
+        "url": "https://www.meetup.com/Elixir-Magic/",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
