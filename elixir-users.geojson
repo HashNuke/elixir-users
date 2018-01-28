@@ -834,6 +834,20 @@
        "email": "omar@omar.engineer",
        "marker-color": "#FFDF5B"
      }
-   }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.858986, 24.578946]
+    },
+    "properties": {
+      "name": "Volodymyr Manivchuk",
+      "github": "vmanivchuk",
+      "twitter": "shtorm_13000",
+      "email": "manivchuk.volodia@gmail.com",
+      "marker-color": "#FFDF5B"
+    }
+  }
   ]
 }
