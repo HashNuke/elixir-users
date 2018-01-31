@@ -839,7 +839,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [48.858986, 24.578946]
+      "coordinates": [24.578946, 48.858986]
     },
     "properties": {
       "name": "Volodymyr Manivchuk",
