@@ -1284,6 +1284,18 @@
         "url": "https://www.meetup.com/Elixir-Magic/",
         "marker-color": "#E35D5C"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.8335, 45.2671]
+      },
+      "properties": {
+        "name": "Elixir Devs Novi Sad",
+        "url": "https://www.meetup.com/meetup-group-GmJHDXhm",
+        "marker-color": "#E35D5C"
+      }
     }
   ]
 }
